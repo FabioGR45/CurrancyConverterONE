@@ -15,23 +15,6 @@ Conversão entre as seguintes moedas:
 Java: Linguagem de programação principal para o desenvolvimento do aplicativo.
 HTTPClient: Biblioteca para realizar requisições HTTP à ExchangeRate-API.
 
-**Instalação e Uso**
-Clone o repositório:
-bash
-Copiar código
-git clone https://github.com/FabioGR45/currency-converter.git
-cd currency-converter
-Compile o projeto:
-
-bash
-Copiar código
-javac -d bin src/*.java
-Execute o projeto:
-
-bash
-Copiar código
-java -cp bin Main
-
 **Exemplo de Uso**
 Execute o aplicativo Currency Converter.
 Siga as instruções fornecidas pelo terminal para selecionar a moeda de origem, a moeda de destino e o valor a ser convertido.

@@ -19,7 +19,7 @@ HTTPClient: Biblioteca para realizar requisições HTTP à ExchangeRate-API.
 Clone o repositório:
 bash
 Copiar código
-git clone https://github.com/seu-usuario/currency-converter.git
+git clone https://github.com/FabioGR45/currency-converter.git
 cd currency-converter
 Compile o projeto:
 
